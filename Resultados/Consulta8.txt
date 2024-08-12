@@ -1,0 +1,8 @@
+Conjunto de resultados 1:
+Continent	FlightCount
+NAM	32011
+AS	18617
+OC	13866
+EU	12340
+AF	11045
+

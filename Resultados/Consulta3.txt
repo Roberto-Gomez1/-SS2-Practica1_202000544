@@ -1,0 +1,333 @@
+Conjunto de resultados 1:
+Nationality	MonthYear	FlightCount
+"Bonaire Saint Eustatius and Saba "	03-2022	3
+Afghanistan	06-2022	39
+Aland Islands	03-2022	4
+Albania	03-2022	45
+Algeria	01-2022	2
+American Samoa	06-2022	6
+Andorra	11-2022	3
+Angola	06-2022	11
+Anguilla	06-2022	1
+Anguilla	07-2022	1
+Anguilla	09-2022	1
+Anguilla	10-2022	1
+Antigua and Barbuda	11-2022	4
+Argentina	07-2022	128
+Armenia	10-2022	44
+Aruba	11-2022	2
+Australia	06-2022	10
+Australia	08-2022	10
+Australia	11-2022	10
+Austria	12-2022	7
+Azerbaijan	08-2022	26
+Azerbaijan	11-2022	26
+Bahamas	01-2022	7
+Bahrain	09-2022	5
+Bangladesh	02-2022	26
+Barbados	01-2022	2
+Barbados	05-2022	2
+Barbados	09-2022	2
+Belarus	12-2022	37
+Belgium	12-2022	4
+Belize	01-2022	4
+Benin	08-2022	10
+Bermuda	01-2022	3
+Bhutan	02-2022	5
+Bhutan	03-2022	5
+Bhutan	04-2022	5
+Bolivia	01-2022	25
+Bosnia and Herzegovina	06-2022	29
+Botswana	10-2022	16
+Brazil	05-2022	366
+British Virgin Islands	10-2022	2
+Brunei	03-2022	2
+Bulgaria	04-2022	37
+Bulgaria	10-2022	37
+Burkina Faso	04-2022	11
+Burundi	02-2022	5
+Burundi	04-2022	5
+Cambodia	05-2022	12
+Cambodia	06-2022	12
+Cameroon	02-2022	22
+Canada	04-2022	112
+Cape Verde	10-2022	6
+Cayman Islands	05-2022	3
+Central African Republic	06-2022	10
+Central African Republic	12-2022	10
+Chad	02-2022	10
+Chad	08-2022	10
+Chad	11-2022	10
+Chile	08-2022	30
+China	08-2022	1614
+Christmas Island	04-2022	1
+Christmas Island	07-2022	1
+Christmas Island	12-2022	1
+Cocos Islands	10-2022	2
+Colombia	06-2022	125
+Comoros	05-2022	11
+Comoros	10-2022	11
+Cook Islands	08-2022	1
+Cook Islands	11-2022	1
+Costa Rica	05-2022	22
+Croatia	01-2022	47
+Cuba	07-2022	37
+Curacao	04-2022	2
+Cyprus	03-2022	14
+Czech Republic	08-2022	161
+Democratic Republic of the Congo	04-2022	25
+Denmark	10-2022	18
+Djibouti	07-2022	5
+Dominica	04-2022	3
+Dominica	05-2022	3
+Dominica	06-2022	3
+Dominica	09-2022	3
+Dominica	10-2022	3
+Dominica	12-2022	3
+Dominican Republic	05-2022	30
+East Timor	04-2022	8
+Ecuador	12-2022	26
+Egypt	06-2022	28
+El Salvador	03-2022	16
+Equatorial Guinea	01-2022	5
+Eritrea	07-2022	4
+Estonia	05-2022	13
+Ethiopia	01-2022	26
+Ethiopia	06-2022	26
+Falkland Islands	03-2022	1
+Falkland Islands	05-2022	1
+Falkland Islands	12-2022	1
+Faroe Islands	11-2022	3
+Fiji	01-2022	1
+Fiji	03-2022	1
+Fiji	04-2022	1
+Fiji	05-2022	1
+Fiji	06-2022	1
+Fiji	08-2022	1
+Fiji	10-2022	1
+Fiji	11-2022	1
+Finland	06-2022	60
+France	08-2022	273
+French Guiana	03-2022	2
+French Polynesia	12-2022	8
+French Southern Territories	03-2022	1
+French Southern Territories	08-2022	1
+Gabon	08-2022	6
+Gambia	03-2022	10
+Gambia	09-2022	10
+Georgia	04-2022	14
+Germany	10-2022	35
+Ghana	07-2022	12
+Greece	08-2022	121
+Greenland	11-2022	3
+Grenada	02-2022	3
+Guadeloupe	05-2022	3
+Guadeloupe	08-2022	3
+Guam	02-2022	5
+Guatemala	05-2022	43
+Guinea	06-2022	8
+Guinea-Bissau	11-2022	4
+Guyana	03-2022	3
+Guyana	10-2022	3
+Guyana	11-2022	3
+Guyana	12-2022	3
+Haiti	09-2022	17
+Honduras	03-2022	61
+Hong Kong	03-2022	3
+Hong Kong	07-2022	3
+Hungary	11-2022	15
+Iceland	09-2022	7
+India	12-2022	2
+Indonesia	03-2022	930
+Iran	07-2022	55
+Iraq	03-2022	9
+Iraq	07-2022	9
+Iraq	08-2022	9
+Iraq	09-2022	9
+Iraq	11-2022	9
+Ireland	08-2022	42
+Isle of Man	03-2022	1
+Isle of Man	11-2022	1
+Isle of Man	12-2022	1
+Israel	11-2022	21
+Italy	07-2022	15
+Ivory Coast	01-2022	18
+Jamaica	11-2022	14
+Japan	10-2022	165
+Jersey	12-2022	1
+Jordan	11-2022	18
+Kazakhstan	10-2022	40
+Kenya	09-2022	22
+Kiribati	07-2022	4
+Kosovo	01-2022	13
+Kuwait	05-2022	8
+Kyrgyzstan	07-2022	13
+Laos	10-2022	13
+Latvia	07-2022	21
+Lebanon	04-2022	8
+Lebanon	12-2022	8
+Lesotho	06-2022	4
+Liberia	07-2022	7
+Libya	03-2022	13
+Libya	07-2022	13
+Libya	10-2022	13
+Liechtenstein	11-2022	3
+Lithuania	08-2022	22
+Luxembourg	06-2022	20
+Macao	02-2022	2
+Macedonia	01-2022	28
+Macedonia	02-2022	28
+Macedonia	03-2022	28
+Macedonia	09-2022	28
+Madagascar	07-2022	25
+Malawi	02-2022	8
+Malawi	05-2022	8
+Malaysia	01-2022	47
+Maldives	08-2022	7
+Mali	08-2022	15
+Malta	04-2022	11
+Marshall Islands	08-2022	10
+Martinique	08-2022	4
+Mauritania	11-2022	5
+Mauritania	12-2022	5
+Mauritius	06-2022	17
+Mayotte	10-2022	4
+Mayotte	11-2022	4
+Mexico	01-2022	101
+Micronesia	11-2022	10
+Moldova	09-2022	13
+Monaco	08-2022	4
+Mongolia	10-2022	47
+Montenegro	06-2022	8
+Montenegro	07-2022	8
+Montserrat	10-2022	2
+Montserrat	11-2022	2
+Morocco	03-2022	45
+Mozambique	12-2022	10
+Myanmar	05-2022	18
+Myanmar	12-2022	18
+Namibia	07-2022	7
+Nauru	07-2022	2
+Nepal	03-2022	17
+Netherlands	05-2022	47
+New Caledonia	03-2022	7
+New Zealand	09-2022	24
+Nicaragua	06-2022	28
+Niger	12-2022	14
+Nigeria	09-2022	90
+Niue	07-2022	2
+Norfolk Island	03-2022	1
+North Korea	02-2022	22
+Northern Mariana Islands	01-2022	1
+Northern Mariana Islands	05-2022	1
+Northern Mariana Islands	10-2022	1
+Northern Mariana Islands	12-2022	1
+Norway	01-2022	41
+Norway	04-2022	41
+Norway	08-2022	41
+Norway	11-2022	41
+Oman	03-2022	7
+Pakistan	11-2022	56
+Palau	07-2022	6
+Palestinian Territory	11-2022	40
+Panama	06-2022	23
+Panama	11-2022	23
+Papua New Guinea	03-2022	8
+Paraguay	08-2022	19
+Peru	10-2022	156
+Philippines	11-2022	487
+Pitcairn	10-2022	2
+Poland	07-2022	290
+Portugal	03-2022	311
+Puerto Rico	03-2022	3
+Puerto Rico	06-2022	3
+Qatar	09-2022	4
+Republic of the Congo	09-2022	6
+Reunion	10-2022	5
+Romania	10-2022	1
+Romania	12-2022	1
+Russia	01-2022	508
+Rwanda	03-2022	3
+Saint Helena	01-2022	1
+Saint Helena	11-2022	1
+Saint Kitts and Nevis	04-2022	4
+Saint Lucia	06-2022	4
+Saint Martin	05-2022	1
+Saint Martin	10-2022	1
+Saint Pierre and Miquelon	06-2022	2
+Saint Vincent and the Grenadines	09-2022	3
+Samoa	02-2022	3
+Samoa	06-2022	3
+Samoa	12-2022	3
+San Marino	06-2022	3
+San Marino	09-2022	3
+Sao Tome and Principe	06-2022	1
+Sao Tome and Principe	09-2022	1
+Sao Tome and Principe	12-2022	1
+Saudi Arabia	10-2022	15
+Senegal	05-2022	15
+Serbia	10-2022	51
+Serbia	12-2022	51
+Seychelles	01-2022	4
+Sierra Leone	02-2022	15
+Singapore	11-2022	2
+Sint Maarten	09-2022	1
+Slovakia	10-2022	2
+Slovenia	08-2022	39
+Solomon Islands	02-2022	2
+Solomon Islands	03-2022	2
+Solomon Islands	09-2022	2
+Solomon Islands	12-2022	2
+Somalia	12-2022	9
+South Africa	08-2022	62
+South Georgia and the South Sandwich Islands	09-2022	2
+South Korea	08-2022	38
+South Sudan	01-2022	3
+South Sudan	03-2022	3
+South Sudan	05-2022	3
+Spain	03-2022	26
+Spain	05-2022	26
+Sri Lanka	05-2022	17
+Sudan	03-2022	11
+Suriname	06-2022	5
+Svalbard and Jan Mayen	03-2022	1
+Svalbard and Jan Mayen	12-2022	1
+Swaziland	02-2022	5
+Sweden	05-2022	226
+Switzerland	08-2022	9
+Syria	10-2022	36
+Taiwan	03-2022	8
+Tajikistan	03-2022	15
+Tajikistan	07-2022	15
+Tajikistan	08-2022	15
+Tanzania	09-2022	40
+Thailand	01-2022	135
+Togo	04-2022	5
+Togo	10-2022	5
+Tokelau	04-2022	2
+Tonga	11-2022	3
+Trinidad and Tobago	06-2022	5
+Tunisia	06-2022	34
+Turkey	09-2022	4
+Turkmenistan	11-2022	8
+Tuvalu	06-2022	3
+Tuvalu	09-2022	3
+U.S. Virgin Islands	10-2022	2
+Uganda	09-2022	26
+Ukraine	05-2022	149
+United Arab Emirates	12-2022	7
+United Kingdom	04-2022	20
+United States	09-2022	203
+Uruguay	09-2022	16
+Uzbekistan	10-2022	23
+Vanuatu	11-2022	3
+Venezuela	01-2022	47
+Vietnam	08-2022	82
+Wallis and Futuna	01-2022	2
+Wallis and Futuna	02-2022	2
+Wallis and Futuna	04-2022	2
+Western Sahara	05-2022	2
+Yemen	10-2022	42
+Zambia	05-2022	14
+Zimbabwe	05-2022	13
+

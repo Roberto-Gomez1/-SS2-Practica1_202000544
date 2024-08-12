@@ -1,0 +1,5 @@
+Conjunto de resultados 1:
+Gender	TotalByGender	Percentage
+Male	49596	50.291531885983
+Female	49021	49.708468114016
+

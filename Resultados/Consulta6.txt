@@ -1,0 +1,6 @@
+Conjunto de resultados 1:
+Status	FlightCount
+Cancelled	32929
+On Time	32833
+Delayed	32822
+

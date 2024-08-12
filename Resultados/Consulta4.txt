@@ -1,0 +1,240 @@
+Conjunto de resultados 1:
+Country	FlightCount
+United States	22082
+Australia	6370
+Canada	5424
+Brazil	4504
+Papua New Guinea	4081
+China	2779
+Indonesia	2373
+Russian Federation	2247
+Colombia	1663
+India	1486
+France	1382
+United Kingdom	1371
+Argentina	1203
+Germany	1161
+Mexico	1073
+Japan	1004
+South Africa	945
+"Iran Islamic Republic of"	816
+Philippines	778
+"Venezuela Bolivarian Republic of"	730
+Pakistan	705
+Turkey	704
+Malaysia	687
+"Congo The Democratic Republic of the"	678
+Italy	669
+Madagascar	663
+Spain	607
+Norway	603
+New Zealand	594
+Chile	582
+Sweden	579
+Ethiopia	544
+French Polynesia	535
+Thailand	500
+Greece	488
+Peru	483
+Myanmar	462
+Algeria	449
+Angola	445
+Nepal	441
+Kenya	425
+Solomon Islands	418
+Iceland	409
+Panama	406
+"Bolivia Plurinational State of"	404
+Bahamas	402
+Mozambique	397
+Ukraine	390
+Afghanistan	372
+Viet Nam	368
+Saudi Arabia	367
+Sri Lanka	361
+Greenland	359
+Marshall Islands	353
+"Korea Republic of"	346
+"Tanzania United Republic of"	345
+Cuba	343
+Finland	338
+Vanuatu	327
+Gabon	326
+Costa Rica	313
+Honduras	312
+Fiji	300
+Egypt	299
+Guyana	288
+Ecuador	287
+Congo	285
+Kazakhstan	284
+Nigeria	278
+Burkina Faso	274
+Sudan	264
+Mongolia	263
+Morocco	260
+Kiribati	252
+Guatemala	245
+Central African Republic	241
+Chad	239
+C+¦te d'Ivoire	235
+Portugal	232
+Somalia	226
+Zambia	222
+"Taiwan Province of China"	221
+Libya	221
+Cameroon	221
+Poland	220
+Belize	218
+Oman	201
+Mauritania	199
+Ireland	193
+Yemen	186
+Romania	185
+Denmark	184
+Bangladesh	180
+Lesotho	177
+Botswana	174
+Lao People's Democratic Republic	171
+Israel	163
+Netherlands	162
+Paraguay	162
+Liberia	160
+Puerto Rico	160
+Senegal	159
+Suriname	159
+United Arab Emirates	158
+Uganda	154
+New Caledonia	151
+Uruguay	150
+Zimbabwe	148
+Switzerland	146
+Nicaragua	143
+Czechia	141
+Dominican Republic	137
+Maldives	133
+Mali	132
+Uzbekistan	128
+Cambodia	124
+Iraq	123
+Malawi	122
+Guinea	121
+Cabo Verde	115
+Bulgaria	110
+Tunisia	105
+Croatia	100
+Cook Islands	98
+Austria	91
+Azerbaijan	87
+Syrian Arab Republic	85
+Sierra Leone	84
+Jamaica	83
+French Guiana	83
+Slovakia	75
+Belgium	72
+Tonga	69
+Timor-Leste	69
+Turks and Caicos Islands	68
+Belarus	67
+Hungary	65
+"Micronesia Federated States of"	64
+Lithuania	63
+Seychelles	62
+Equatorial Guinea	61
+Niger	60
+"Korea Democratic People's Republic of"	56
+Haiti	56
+Guadeloupe	56
+Cyprus	54
+Turkmenistan	54
+"Virgin Islands U.S."	52
+Estonia	52
+Benin	51
+Rwanda	50
+Eritrea	48
+South Sudan	48
+Comoros	47
+Bosnia and Herzegovina	47
+Saint Vincent and the Grenadines	46
+Bhutan	46
+American Samoa	45
+Montenegro	45
+Singapore	44
+Djibouti	44
+Tajikistan	43
+Samoa	43
+Serbia	43
+Northern Mariana Islands	43
+Jordan	43
+Ghana	41
+Burundi	39
+Western Sahara	39
+Qatar	39
+Kyrgyzstan	38
+Hong Kong	36
+Georgia	35
+Latvia	34
+"Bonaire Sint Eustatius and Saba"	33
+Slovenia	32
+"Palestine State of"	31
+"Virgin Islands British"	31
+Sao Tome and Principe	29
+Cayman Islands	27
+Falkland Islands (Malvinas)	27
+Dominica	27
+United States Minor Outlying Islands	27
+Guam	26
+North Macedonia	26
+Lebanon	25
+Saint Pierre and Miquelon	25
+"Moldova Republic of"	24
+Mauritius	24
+Saint Martin (French part)	24
+Kuwait	23
+Saint Kitts and Nevis	23
+Trinidad and Tobago	23
+Grenada	23
+Togo	23
+US	22
+Armenia	21
+Bermuda	21
+"Saint Helena Ascension and Tristan da Cunha"	20
+Antigua and Barbuda	20
+R+®union	20
+Saint Lucia	18
+Montserrat	17
+Wallis and Futuna	17
+Tuvalu	16
+British Indian Ocean Territory	16
+Malta	16
+Guernsey	16
+Gambia	15
+Niue	15
+Anguilla	14
+El Salvador	14
+Macao	14
+Barbados	13
+Mayotte	13
+ID	13
+Bahrain	12
+Albania	12
+Isle of Man	12
+Christmas Island	11
+Saint Barth+®lemy	11
+Faroe Islands	11
+Norfolk Island	10
+Martinique	10
+Guinea-Bissau	10
+Eswatini	9
+Gibraltar	9
+Aruba	9
+Luxembourg	9
+Sint Maarten (Dutch part)	9
+Brunei Darussalam	8
+Cocos (Keeling) Islands	8
+Monaco	7
+Nauru	7
+Andorra	7
+Palau	5
+Jersey	4
+
