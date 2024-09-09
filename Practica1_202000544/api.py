@@ -35,19 +35,19 @@ def main():
 
         if op == 1:
             print("Borrando modelo...")
-            execute_sql_file(r"C:\Users\Roberto\Desktop\Semestre\Semi2\Lab\-SS2-Practica1_202000544\Scripts\BorrarModelo.sql", conn)
+            execute_sql_file(r"C:\Users\Roberto\Desktop\Semestre\Semi2\Lab\-SS2-Practica1_202000544\Scripts\BorrarModelo.sql")
             input("")
         elif op == 2:
             print("Creando modelo...")
-            execute_sql_file(r"C:\Users\Roberto\Desktop\Semestre\Semi2\Lab\-SS2-Practica1_202000544\Scripts\CrearModelo.sql", conn)
+            execute_sql_file(r"C:\Users\Roberto\Desktop\Semestre\Semi2\Lab\-SS2-Practica1_202000544\Scripts\CrearModelo.sql")
             input("")
         elif op == 3:
             print("Extrayendo la informacion...")
-            execute_sql_file(r"C:\Users\Roberto\Desktop\Semestre\Semi2\Lab\-SS2-Practica1_202000544\Scripts\ExtraerInformacion.sql", conn)
+            execute_sql_file(r"C:\Users\Roberto\Desktop\Semestre\Semi2\Lab\-SS2-Practica1_202000544\Scripts\ExtraerInformacion.sql")
             input("")
         elif op == 4:
             print("Cargando informacion...")
-            execute_sql_file(r"C:\Users\Roberto\Desktop\Semestre\Semi2\Lab\-SS2-Practica1_202000544\Scripts\CargarInformacion.sql", conn)
+            execute_sql_file(r"C:\Users\Roberto\Desktop\Semestre\Semi2\Lab\-SS2-Practica1_202000544\Scripts\CargarInformacion.sql")
             input("")
         elif op == 5:
             print("Haciendo consultas...")

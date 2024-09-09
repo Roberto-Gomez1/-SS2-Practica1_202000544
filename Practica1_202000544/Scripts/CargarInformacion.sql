@@ -1,4 +1,4 @@
-Use Seminario2
+
 
 INSERT INTO Pasajero (PassengerID, FirstName, LastName, Gender, Age, Nationality)
 SELECT DISTINCT 
